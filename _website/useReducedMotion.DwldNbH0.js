@@ -1,0 +1,1 @@
+import{C as e}from"./reactivity.esm-bundler.AowXj0iW.js";import{T as t}from"./dist.BwkPDtba.js";var n=typeof window<`u`?t():e(`no-preference`);function r(){return n.value===`reduce`}export{r as t};

@@ -1,0 +1,1 @@
+function e(){let e=0;return{capture(){let t=e;return{live:()=>t===e}},abandon(){e+=1}}}export{e as t};

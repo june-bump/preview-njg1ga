@@ -1,0 +1,1 @@
+import{C as e}from"./reactivity.esm-bundler.AowXj0iW.js";import{g as t}from"./runtime-core.esm-bundler.CAI61Uq1.js";import{t as n}from"./ConfigProvider.CG14t3nF.js";function r(r){let i=n({dir:e(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

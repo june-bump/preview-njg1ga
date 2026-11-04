@@ -1,0 +1,1 @@
+var e=`website-catalog-enabled`;function t(){let e=typeof document>`u`?void 0:document.documentElement.dataset.catalogSource;return e===`legacy`||e===`catalog`?{"X-Comfy-Catalog-Source":e}:{}}export{t as n,e as t};

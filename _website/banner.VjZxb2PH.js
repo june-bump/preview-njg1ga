@@ -1,0 +1,1 @@
+var e=`closedBanners`,t=`data-banner-dismissed`;function n(e){if(typeof e!=`object`||!e||Array.isArray(e))return{};let t={};for(let[n,r]of Object.entries(e))typeof r==`boolean`&&(t[n]=r);return t}export{e as n,n as r,t};

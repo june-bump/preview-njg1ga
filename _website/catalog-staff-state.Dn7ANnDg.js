@@ -1,0 +1,1 @@
+import{O as e}from"./reactivity.esm-bundler.AowXj0iW.js";var t=e(),n=`comfy.catalog.staff.csrf`;async function r(e){return(await fetch(`/admin/content-session`,{method:`DELETE`,headers:{"X-Comfy-CSRF":e,"Content-Type":`application/json`},body:`{}`,credentials:`same-origin`})).ok}export{t as n,r,n as t};

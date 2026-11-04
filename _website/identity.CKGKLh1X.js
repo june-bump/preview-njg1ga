@@ -1,0 +1,1 @@
+var e=Symbol(`@comfyorg/account-core identity`);function t(t){return{...t,[e]:!0}}export{t};
